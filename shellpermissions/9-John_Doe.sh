@@ -1,4 +1,4 @@
 #!/bin bash
-chmod g+x
-chmod o-r+wx
+chmod g+x hello
+chmod o-r+wx hello
 
