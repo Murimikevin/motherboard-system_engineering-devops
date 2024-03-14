@@ -1,2 +1,4 @@
 #!/bin/bash
-alias git_trio='git add -A | git commit -m | git push
+alias add="git add -A"
+alias commit="git commit -m"""
+alias push="git push"
